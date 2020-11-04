@@ -1,0 +1,8 @@
+.calculatorStyle {
+   width: 320px;
+   height: 400px;
+   background-color: black;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+}

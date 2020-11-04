@@ -1,0 +1,46 @@
+.ButtonNumber {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: white;
+   border-radius: 50%;
+   background-color: #343434;
+   height: 68px;
+   width: 68px;
+   font-size: 30px;
+}
+
+.active:active {
+   background-color: grey;
+}
+
+
+
+.Operator {
+   color: white;
+   border-radius: 50%;
+   background-color: #fc9800;
+   font-size: 50px;
+   font-size: 35px;
+}
+
+.zero {
+   width: 150px;
+   border-radius: 50px 50px 50px 50px;
+   font-size: 30px;
+}
+
+.grey {
+   background-color: #a6a6a6;
+   color: black;
+   font-size: 30px;
+   font-weight: bold;
+}
+
+.arf {
+   content: '&#215;';
+}
+
+.activeDown {
+   background-color: gray;
+}
